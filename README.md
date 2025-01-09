@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Fake News Detector is a machine learning project designed to address the growing issue of misinformation by distinguishing between real and fake news articles. Utilizing state-of-the-art machine learning models, this project provides insights into patterns of disinformation and offers tools to counter its spread. 
+The Fake News Detector is a machine learning project designed to address the growing issue of misinformation by distinguishing between real and fake news articles.
 
 This project was collaboratively developed by:
 - **Aiesha Ayub**
@@ -28,7 +28,7 @@ The primary objectives of the project are:
 ## Methods
 
 The project employed the following models to classify news articles:
-- **Transformers**: State-of-the-art language models for natural language understanding.
+- **Transformers**: Language models for natural language understanding.
 - **Multi-Layer Perceptron (MLP)**: A type of neural network for classification tasks.
 - **Support Vector Machine (SVM)**: A model for binary classification in multi-dimensional spaces.
 - **Naive Bayes**: A probabilistic classifier based on Bayes' Theorem.
